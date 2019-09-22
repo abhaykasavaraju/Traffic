@@ -43,6 +43,14 @@
                 tools:layout_editor_absoluteX="20dp"
                 tools:layout_editor_absoluteY="170dp"
                 tools:text="Complaint #Number" />
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="257dp"
+                android:layout_height="49dp"
+                android:text="Complaint #Number"
+                tools:layout_editor_absoluteX="20dp"
+                tools:layout_editor_absoluteY="170dp"
+                tools:text="Complaint #Number" />
 
 
         </LinearLayout>
